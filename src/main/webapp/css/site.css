@@ -1,0 +1,67 @@
+.title {
+	padding:20px;
+	text-align: center;
+}
+body {
+	background: rgb(74,162,244);
+	background: radial-gradient(circle, rgba(74,162,244,1) 0%, rgba(54,131,240,1) 100%);
+}
+
+.surveyView {
+	width:80%;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	margin-top:30px;
+  	margin-bottom:20px;
+}	
+.uploadField {
+	width:80%;
+	margin:auto;
+}
+
+label.btn.btn-light.btn-lg.btn-block.uploadField {
+    width: 80%;
+    margin: auto;
+}
+
+.detailSection {
+	clear: both;
+	display: block;
+	margin: 20px auto;
+	vertical-align: top;
+	text-align: center;
+	min-height: 450px;
+	background-color: #FFF;
+	border-radius: 7px;
+	padding: 40px;
+	width:80%;
+} 
+
+.userSection {
+	clear: both;
+	display: block;
+	margin: 20px auto;
+	vertical-align: top;
+	text-align: left;
+	min-height: 450px;
+	background-color: #FFF;
+	border-radius: 7px;
+	padding: 40px;
+	width:80%;
+} 
+
+.flexBox {
+	display:flex;
+}
+
+.flexItem {
+	width:50%;
+}
+
+.title {
+	vertical-align: top;
+}
+#textLeft {
+	text-align:left;
+}
